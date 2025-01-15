@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5" pages="2">
   <diagram name="Alur" id="_Fkrum8pg4EQ_HvpVhEx">
-    <mxGraphModel dx="1615" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
         <mxCell id="c4pV2w5xUXXaj8woZwIx-25" value="Dashboard" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="137" width="120" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="c4pV2w5xUXXaj8woZwIx-27" value="Kelola produk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c4pV2w5xUXXaj8woZwIx-27" value="Kelola obat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="233" width="120" height="69" as="geometry" />
         </mxCell>
         <mxCell id="c4pV2w5xUXXaj8woZwIx-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4pV2w5xUXXaj8woZwIx-30" target="c4pV2w5xUXXaj8woZwIx-31">
@@ -100,7 +100,7 @@
           <mxGeometry x="234" y="657" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4pV2w5xUXXaj8woZwIx-48" value="Alur Sistem Apotek" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="311" y="30" width="206" height="30" as="geometry" />
+          <mxGeometry x="484" y="20" width="206" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BGnhBuN1qmybA8xWEHZN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BGnhBuN1qmybA8xWEHZN-1" target="BGnhBuN1qmybA8xWEHZN-2">
           <mxGeometry relative="1" as="geometry" />
