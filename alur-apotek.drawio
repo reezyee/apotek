@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6" pages="2">
   <diagram name="Alur" id="_Fkrum8pg4EQ_HvpVhEx">
-    <mxGraphModel dx="1400" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,7 +108,7 @@
           <mxGeometry x="20" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4pV2w5xUXXaj8woZwIx-39" value="Melihat detail obat" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4pV2w5xUXXaj8woZwIx-43" value="Konsultasi" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="760" width="120" height="60" as="geometry" />
@@ -201,6 +201,9 @@
         <mxCell id="BGnhBuN1qmybA8xWEHZN-39" value="Succes?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="550" y="133.5" width="80" height="76" as="geometry" />
         </mxCell>
+        <mxCell id="pzpY5ONRuiN9DR8s5MaT-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BGnhBuN1qmybA8xWEHZN-42" target="pzpY5ONRuiN9DR8s5MaT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BGnhBuN1qmybA8xWEHZN-42" value="Dashboard" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="131.5" width="80" height="80" as="geometry" />
         </mxCell>
@@ -250,7 +253,7 @@
         <mxCell id="BGnhBuN1qmybA8xWEHZN-55" value="Dashboard" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="745" y="638" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BGnhBuN1qmybA8xWEHZN-57" value="Kelola obar" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BGnhBuN1qmybA8xWEHZN-57" value="Kelola obat" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="745" y="778" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BGnhBuN1qmybA8xWEHZN-61" value="Succes?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=13;" parent="1" vertex="1">
@@ -308,6 +311,9 @@
         </mxCell>
         <mxCell id="pzpY5ONRuiN9DR8s5MaT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c4pV2w5xUXXaj8woZwIx-37" target="vDH_8-xXrsYnAcBKpjNN-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzpY5ONRuiN9DR8s5MaT-16" value="Riwayat pemesesanan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="240" width="120" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
