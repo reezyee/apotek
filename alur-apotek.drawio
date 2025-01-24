@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7" pages="3">
   <diagram name="Alur" id="_Fkrum8pg4EQ_HvpVhEx">
-    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,12 +50,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c4pV2w5xUXXaj8woZwIx-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="c4pV2w5xUXXaj8woZwIx-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1055" y="275" as="sourcePoint" />
-            <mxPoint x="1127" y="346" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BGnhBuN1qmybA8xWEHZN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.963;exitY=0.496;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="BGnhBuN1qmybA8xWEHZN-42" target="BGnhBuN1qmybA8xWEHZN-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="935" y="359" as="targetPoint" />
@@ -77,8 +71,8 @@
             <mxPoint x="1115" y="240.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c4pV2w5xUXXaj8woZwIx-27" value="Riwayat pesanan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="995" y="339" width="120" height="69" as="geometry" />
+        <mxCell id="c4pV2w5xUXXaj8woZwIx-27" value="Riwayat transaksi" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="339" width="120" height="69" as="geometry" />
         </mxCell>
         <mxCell id="c4pV2w5xUXXaj8woZwIx-48" value="Alur Sistem Apotek" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="728" y="30" width="206" height="30" as="geometry" />
@@ -159,9 +153,6 @@
         <mxCell id="BGnhBuN1qmybA8xWEHZN-39" value="Succes?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="845" y="202.5" width="80" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="pzpY5ONRuiN9DR8s5MaT-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.964;exitY=0.497;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitPerimeter=0;" parent="1" source="BGnhBuN1qmybA8xWEHZN-42" target="pzpY5ONRuiN9DR8s5MaT-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_qlOW4NxHMYJ8Wm-HZpm-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BGnhBuN1qmybA8xWEHZN-42" target="c4pV2w5xUXXaj8woZwIx-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -222,9 +213,6 @@
         </mxCell>
         <mxCell id="BGnhBuN1qmybA8xWEHZN-61" value="Succes?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="856" y="873" width="80" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="pzpY5ONRuiN9DR8s5MaT-16" value="Riwayat pemesesanan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1165" y="309" width="120" height="69" as="geometry" />
         </mxCell>
         <mxCell id="_qlOW4NxHMYJ8Wm-HZpm-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_qlOW4NxHMYJ8Wm-HZpm-9" target="_qlOW4NxHMYJ8Wm-HZpm-19" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -350,7 +338,7 @@
           <mxGeometry x="936" y="1458" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_qlOW4NxHMYJ8Wm-HZpm-50" value="Kelola pesanan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="836" y="339" width="120" height="69" as="geometry" />
+          <mxGeometry x="910" y="339" width="120" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
